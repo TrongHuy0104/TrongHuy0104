@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinh Trong Huy</h1>
-<h3 align="center">Full-stack Developer</h3>
+<h3 align="center">Frontend Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/ dinhtronghuy0104" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
